@@ -265,4 +265,4 @@
 
 ### Conclusion
 
-This has been a very comprehensive project--by far the most challenging in the course so far. To improve it further, it would be best to run the project in a native Linux enivronment, without a Virtual Machine -- due to much of the errors coming from lag, and the robot not fully grasping objects, or simply holding onto them for too long. There could also be more development done in detecting the glue object that appears in world2 and world3. It is a small object, so many of the filters keeping the noise out would often exclude it from our analysis.
+To improve this project further, it will be useful to run the project in a native Linux enivronment, rather than VM -- due to much of the errors coming from lag, and the robot not fully grasping objects, or simply holding onto them for too long. There could also be more development done in detecting the glue object that appears in world2 and world3. It is a small object, so many of the filters keeping the noise out would often exclude it from our analysis.
